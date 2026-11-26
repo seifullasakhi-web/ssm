@@ -1,0 +1,47 @@
+h1, h2 {
+    font-family: 'Oswald', Arial, sans-serif;
+    font-weight: 500;
+    text-transform: uppercase;
+}
+
+/* Басты тақырып */
+h1 {
+    font-size: 48px;
+    text-align: center;
+    color: #a50044;
+}
+
+/* Ішкі тақырыптар */
+h2 {
+    font-size: 28px;
+    text-decoration: underline;
+    color: #004d98;
+}
+
+/* Абзацтар */
+p {
+    font-family: 'Roboto', Verdana, sans-serif;
+    font-size: 18px;
+}
+
+/* .orta класындағы абзацтар */
+p.orta {
+    text-align: center;
+}
+
+/* Видео мен аудионың ені */
+video {
+    width: 640px;
+}
+
+audio {
+    width: 50%;
+}
+
+/* .jazu класындағы абзацтар */
+p.jazu {
+    font-size: 0.9em;
+    font-weight: bold;
+    text-align: center;
+    color: #555555;
+}
